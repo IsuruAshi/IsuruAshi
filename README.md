@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Isuru Ashinsana</h2>
-<h3 align="left">A passionate Fullstack Developer from Sri Lanka</h3>
+<h4 align="left">"Hello there! I'm a trainee with a burning passion for full-stack development. My journey in the world of coding is just beginning, and I'm excited to immerse myself in the intricacies of both front-end and back-end technologies. With an insatiable appetite for learning and problem-solving, I'm on a mission to craft engaging and user-centric web applications that leave a lasting impact. Join me as I embark on this exciting adventure into the realm of technology!<br> 🌟👩‍💻 #FullStackDevTrainee #CodingEnthusiast" </h4>
 <br>
 - 📫 How to reach me **isuruashinsana@gmail.com **
 <p align="left">
