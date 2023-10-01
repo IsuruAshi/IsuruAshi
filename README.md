@@ -1,8 +1,7 @@
-<h1 align="left">Hi 👋, I'm Isuru Ashinsana</h1>
+<h2 align="left">Hi 👋, I'm Isuru Ashinsana</h2>
 <h3 align="left">A passionate Fullstack Developer from Sri Lanka</h3>
 <br>
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **isuruashinsana@gmail.com**
+- 📫 How to reach me **isuruashinsana@gmail.com **
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
