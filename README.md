@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru Ashinsana</h1>
 <h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
 <br>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/c6/75/6c/c6756ccfb156a1a27d1755c617095579.gif">
 
 
 
