@@ -1,21 +1,13 @@
-<h2 align="left">Hi 👋, I'm Isuru Ashinsana</h2>
+ - 📫 How to reach me **isuruashinsana@gmail.com**
 
-<p align="left">"Hello there! I'm a trainee with a burning passion for full-stack development. My journey in the world of coding is just beginning, and I'm excited to immerse myself in the intricacies of both front-end and back-end technologies. With an insatiable appetite for learning and problem-solving, I'm on a mission to craft engaging and user-centric web applications that leave a lasting impact. Join me as I embark on this exciting adventure into the realm of technology!<br> 🌟👩‍💻 #FullStackDevTrainee #CodingEnthusiast" </p>
-<br>
-- 📫 How to reach me **isuruashinsana@gmail.com **
+
 <p align="left">
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
 <h1 align="center">Hi 👋, I'm Isuru Ashinsana</h1>
 <h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
-
-
-
-- 📫 How to reach me **isuruashinsana@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left">"Hello there! I'm a trainee with a burning passion for full-stack development. My journey in the world of coding is just beginning, and I'm excited to immerse myself in the intricacies of both front-end and back-end technologies. With an insatiable appetite for learning and problem-solving, I'm on a mission to craft engaging and user-centric web applications that leave a lasting impact. Join me as I embark on this exciting adventure into the realm of technology!<br> 🌟👩‍💻 #FullStackDevTrainee    #CodingEnthusiast" </p>
+<br>
 
 ## 🛠️ Skills
 
