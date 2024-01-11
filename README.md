@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Isuru Ashinsana</h1>
 <h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
-<p align="left">"Hello there! I'm a trainee with a burning passion for full-stack development. My journey in the world of coding is just beginning, and I'm excited to immerse myself in the intricacies of both front-end and back-end technologies. With an insatiable appetite for learning and problem-solving, I'm on a mission to craft engaging and user-centric web applications that leave a lasting impact. Join me as I embark on this exciting adventure into the realm of technology!<br> 🌟👩‍💻 #FullStackDevTrainee    #CodingEnthusiast" </p>
+<p align="left">"Hello there! I'm an Associate Software Developer with a burning passion for full-stack development. My journey in the world of coding is just beginning, and I'm excited to immerse myself in the intricacies of both front-end and back-end technologies. With an insatiable appetite for learning and problem-solving, I'm on a mission to craft engaging and user-centric web applications that leave a lasting impact. Join me as I embark on this exciting adventure into the realm of technology!<br> 🌟👩‍💻 #FullStackDevTrainee    #CodingEnthusiast" </p>
 <br>
 
 ## 🛠️ Skills
